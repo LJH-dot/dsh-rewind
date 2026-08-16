@@ -9,6 +9,10 @@
     "cordis.patch.yml"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LJH-dot/dsh-rewind.git"
+  },
   "peerDependencies": {
     "@deepseek-ai/cordis": ">=4.0.1",
     "react": "^18.2.0",
