@@ -1,6 +1,6 @@
 {
   "name": "dsh-rewind",
-  "version": "0.11.12",
+  "version": "0.11.13",
   "description": "Claude Code-style /rewind for DSH, with git-aware restore and vault recovery.",
   "type": "module",
   "main": "lib/index.js",
