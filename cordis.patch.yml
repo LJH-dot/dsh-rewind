@@ -1,0 +1,6 @@
+# dsh-rewind bundle patch
+# 被 dsh plugin add 识别：装包时自动把本插件挂进插件栈（点名册），
+# 一条命令 = 安装 + 挂载，无需手动改 profile 文件。
+- insert:
+    - id: dsh-rewind
+      name: 'dsh-rewind'
